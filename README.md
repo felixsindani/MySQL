@@ -1,0 +1,1 @@
+https://www.liquidweb.com/kb/mysql-performance-mysql-vs-mariadb/
